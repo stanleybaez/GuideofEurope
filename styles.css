@@ -1,0 +1,23 @@
+body {
+    background-color: aliceblue;
+    color: white;
+    padding: 44px;
+    font-family: Arial, Verdana, sans-serif;}
+h1 {
+               
+    text-transform: uppercase;
+    letter-spacing: 0.10cm;
+    text-align: center;
+    color: rgba(38, 96, 164, 1);
+    padding: 20px;}
+ h2 {  
+    text-align: center;
+     text-decoration: underline;
+     color:  rgba(38, 96, 164, 1);
+     padding: 10px;}
+div {
+    color:  rgba(38, 96, 164, 1);}     
+
+.container-list{
+    
+}
