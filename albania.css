@@ -1,0 +1,76 @@
+body {
+    background-color: aliceblue;
+    color: white;
+    padding: 44px;
+    font-family: Arial, Verdana, sans-serif;}
+h1  {         
+    text-transform: uppercase;
+    letter-spacing: 0.10cm;
+    text-align: center;
+    color: rgba(38, 96, 164, 1);
+    padding: 20px;}
+h2  {
+    text-transform: uppercase;
+    letter-spacing: 0.10cm;
+    color: rgba(38, 96, 164, 1);}  
+p.region  {
+    color:  rgba(38, 96, 164, 1);
+    min-width: 222px;
+    max-width: 222px;
+    padding-right: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;}
+p.tirana  {
+    color:  rgba(38, 96, 164, 1);
+    min-width: 222px;
+    max-width: 222px;
+    padding-right: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;}
+p.berat  {
+    color:  rgba(38, 96, 164, 1);
+    min-width: 222px;
+    max-width: 222px;
+    padding-right: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;}    
+p.gjiro  {
+    color:  rgba(38, 96, 164, 1);
+    min-width: 222px;
+    max-width: 222px;
+    padding-right: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;}    
+p.kruje {
+    color:  rgba(38, 96, 164, 1);
+    min-width: 222px;
+    max-width: 222px;
+    padding-right: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;}
+p.food {
+    color:  rgba(38, 96, 164, 1);
+    min-width: 222px;
+    max-width: 222px;
+    padding-right: 80%;
+    font-family: Arial, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;}
+    
